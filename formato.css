@@ -4,6 +4,10 @@ h1 {color: aqua;}
 background-color: coral;}
 .header2{size: 15em;color: darkgreen;background-color: darkgrey;}
 
+#basic{
+    background-color: white;
+}
+
 #basic .interior1 b {
     color: red; 
     }
