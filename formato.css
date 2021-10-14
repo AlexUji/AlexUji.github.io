@@ -6,6 +6,17 @@ h1 {color: aqua;}
 background-color: coral;}
 .header2{size: 15em;color: darkgreen;background-color: darkgrey;}
 
+.tds1{
+    color: rosybrown;
+    background-color: pink;
+}
+
+ .tds2 {
+    color:teal ;
+    background-color: turquoise;
+}
+
+
 #basic{
     background-color: white;
 }
