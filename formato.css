@@ -1,0 +1,35 @@
+p {background-color: green;}
+
+h1 {color: aqua;}
+
+#header1{color: brown;
+background-color: coral;}
+.header2{size: 15em;color: darkgreen;background-color: darkgrey;}
+
+.tds1{
+    color: rosybrown;
+    background-color: pink;
+}
+
+ .tds2 {
+    color:teal ;
+    background-color: turquoise;
+}
+
+
+#basic{
+    background-color: white;
+}
+
+#basic .interior1 b {
+    color: red; 
+    }
+
+#basic .interior2 b {
+    color: purple; 
+    }
+
+#basic .interior3 b {
+    color: blue; 
+   }
+    
